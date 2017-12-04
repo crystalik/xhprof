@@ -6,6 +6,7 @@ Modification History:
   releases, the CHANGLELOG is maintained in the package.xml file itself.
   Please edit package.xml instead.
  ************
+ 12/04/2017   crystalik forked for tagging
 
  03/02/2008   kannan, checkin xhprof_html/ and xhprof_lib/ directories.
               cjiang  [These contain PHP sources for the UI as well
